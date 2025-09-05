@@ -8,8 +8,7 @@
   <body class="bg-blue-50">
     <x-navbar></x-navbar>
     <div class="hero min-h-screen"
-        style="background-image: url(https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-0464-622f-bd91-173a22715df9/raw?se=2025-09-01T02%3A55%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=c1bd17bf-17eb-579b-9ca1-eb67f7b4da9c&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-31T17%3A33%3A48Z&ske=2025-09-01T17%3A33%3A48Z&sks=b&skv=2024-08-04&sig=J%2B/k8yov2Q0wfxqZfFuVmSlW2jDoJDWQI8uz%2B25iJAA%3D);"
-        >
+        style="background-image: url(https://lh3.googleusercontent.com/pw/AP1GczMmNL7OT-1xEnmMEvrpIPBs9mQNf7Izdxz_UzB-9fbOh-BuCvinqWYXlhb3XMcYOOqSD32M--raV727hb0t8GYvzYbJlI2k9RVXH6UxO_4IcFkijkdlcqwOrz-tXLp3eiGQEMvb0L2jqE_iQfOyERkAfQ=w1260-h945-s-no-gm)">
         <div class="hero-overlay"></div>
         <div class="hero-content text-neutral-content text-center">
             <div class="max-w-lg">
@@ -32,7 +31,7 @@
                 <img src="https://smkn4-web.netlify.app/_nuxt/kepsek.CR668aGV.png" alt="">
             </div>
             <div class="col-span-2">
-                <div class="card card-border w-full bg-white h-50 shadow-sm">
+                <div class="card card-border w-full bg-white shadow-sm">
                     <div class="card-body text-[11px] md:text-[11px] lg:text-sm">
                         <h1>Assalamu’alaikum warahmatullahi wabarakatuh.
                             Salam sejahtera bagi kita semua.
@@ -51,7 +50,7 @@
         <!--- Jumlah --->
         <h1 class="mt-7 card-title text-3xl font-bold justify-center">Guru, Staf dan Peserta Didik</h1>
         <p class="my-5 text-center">Tahun Pelajaran 2023/2024</p>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center justify-center">
+        <div class="grid grid-cols-1 xl:grid-cols-3 gap-6 text-center justify-center">
             <div class="card card-border w-75 bg-white shadow-sm mx-auto hover:bg-cyan-600 hover:text-white transition transform hover:scale-105">
                 <div class="card-body justify-center items-center text-center">
                     <h1 class="card-title font-bold text-3xl">60</h1>
@@ -74,10 +73,8 @@
         <!--- Tutup Jumlah --->
 
         <!--- Jurusan --->
-        <div class="grid grid-cols-3 text-center items-center justify-center">
-            <div class="col-span-3 my-10">
-                <h1 class="card-title font-bold text-3xl justify-center">Kompetensi Keahlian</h1>
-            </div>
+        <h1 class="card-title font-bold text-3xl justify-center my-7">Kompetensi Keahlian</h1>
+        <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 text-center items-center justify-center">
             <div class="card card-side bg-base-100 shadow-sm mx-auto mb-5">
                 <figure>
                     <svg class="w-20 mx-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M280 152L360 152L360 200L280 200L280 152zM272 96C245.5 96 224 117.5 224 144L224 208C224 234.5 245.5 256 272 256L288 256L288 288L64 288C46.3 288 32 302.3 32 320C32 337.7 46.3 352 64 352L160 352L160 384L144 384C117.5 384 96 405.5 96 432L96 496C96 522.5 117.5 544 144 544L240 544C266.5 544 288 522.5 288 496L288 432C288 405.5 266.5 384 240 384L224 384L224 352L416 352L416 384L400 384C373.5 384 352 405.5 352 432L352 496C352 522.5 373.5 544 400 544L496 544C522.5 544 544 522.5 544 496L544 432C544 405.5 522.5 384 496 384L480 384L480 352L576 352C593.7 352 608 337.7 608 320C608 302.3 593.7 288 576 288L352 288L352 256L368 256C394.5 256 416 234.5 416 208L416 144C416 117.5 394.5 96 368 96L272 96zM480 440L488 440L488 488L408 488L408 440L480 440zM224 440L232 440L232 488L152 488L152 440L224 440z"/></svg>

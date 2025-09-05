@@ -10,8 +10,8 @@
         <h6 class="footer-title">Menu</h6>
         <a class="link link-hover" href="/">Beranda</a>
         <a class="link link-hover" href="/Profil">Profil</a>
-        <a class="link link-hover" href="/">Ekstrakulikuler</a>
-        <a class="link link-hover" href="/">Galeri</a>
+        <a class="link link-hover" href="/Ekstrakulikuler">Ekstrakulikuler</a>
+        <a class="link link-hover" href="/Galeri">Galeri</a>
     </nav>
     <nav>
         <h6 class="footer-title">Social</h6>
